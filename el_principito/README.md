@@ -7,7 +7,7 @@ este exagerando pero algo me convence a creer en ello es, quizás, esta oración
 _Quiero Dedicar este libro al niño que esta persona grande fue en otro tiempo_
 
 
-##Dinámica
+## Dinámica
 La lectura de este libro se realizará por grupos de capítulos
 organizados de la siguiente manera:
 
