@@ -11,8 +11,8 @@ _Quiero Dedicar este libro al niño que esta persona grande fue en otro tiempo_
 La lectura de este libro se realizará por grupos de capítulos
 organizados de la siguiente manera:
 
-* Semana 1 - Capítulo 1 al 5 (Actual)
+* Semana 1 - Capítulo 1 al 5
 * Semana 2 - Capítulo 6 al 10
-* Semana 3 - Capítulo 11 al 15
+* Semana 3 - Capítulo 11 al 15 (Actual)
 * Semana 4 - Capítulo 16 al 20
 * Semana 5 - Capítulo 21 al 27
